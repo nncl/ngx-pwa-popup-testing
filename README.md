@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
+Thanks to [Abhay](https://stackoverflow.com/questions/53871586/angular-catch-beforeinstallprompt-event-add-to
+-homescreen-in-dev-tools-applic/53939638#53939638).
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
